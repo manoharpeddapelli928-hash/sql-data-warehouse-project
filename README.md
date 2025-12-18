@@ -56,4 +56,21 @@ These insights empower stakeholder with key business metrics, enabling strategic
 
 This project is licensed under the  [MLT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
+# About Me
+Hello! This is Manohar Peddapelli, a passionate BCA student with a strong interest in Data Engineering, Data Analytics, and Software Development. I enjoy building real-world projects that combine data processing, analytics, and clean system design.
 
+I’m continuously learning and exploring tools like SQL Server, Python, Power BI, and Flask, and I love turning raw data into meaningful insights that support better decision-making.
+
+This project reflects my ability to:
+
+Work with multiple data sources
+
+Perform data cleaning and integration
+
+Build a structured data warehouse
+
+Develop insightful SQL-based analytics
+
+Document solutions clearly for both technical and business users
+
+I believe in working hard, learning continuously, and building impactful solutions that solve real problems. Feel free to connect with me for collaboration, feedback, or opportunities!
