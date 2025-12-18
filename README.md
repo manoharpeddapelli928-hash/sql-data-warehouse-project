@@ -6,7 +6,7 @@ This project demonstates a comprehensive data warehousing and analytics solution
 
 The data architecture for this project follows Medallion Architecture Bronze, Silver and Gold layers:
 
-
+![image alt](https://github.com/manoharpeddapelli928-hash/sql-data-warehouse-project/blob/main/Screenshot%202025-12-18%20180038.png?raw=true)
 
 
 ## Project Requirements 
